@@ -55,7 +55,7 @@ The core of the Enspiral strategy is connecting a diverse collection of talented
 The needs of our clients often don’t fall into tidy boxes.  Our network of professionals is intentionally diverse, because including a spectrum of abilities and perspectives is the only way to continuously solve the toughest problems.  Our networked approach allows leading practitioners across disciplines to form teams with the specific skills that will solve our clients’ real needs.  
 
 #### LAUNCH AND SCALE SOCIAL VENTURES
-We give our members access to potential collaborators, service providers, mentors, and funders. We are a platform for a rich collection of shared information and knowledge about social entrepreneurship, creating a place optimised to germinate social ventures. Lack of a supportive community is one of the most serious problems social entrepreneurs face - Enspiral is a solution.
+We give our contributors access to potential collaborators, service providers, mentors, and funders. We are a platform for a rich collection of shared information and knowledge about social entrepreneurship, creating a place optimised to germinate social ventures. Lack of a supportive community is one of the most serious problems social entrepreneurs face - Enspiral is a solution.
 
 #### DESIGN NETWORKED BUSINESS MODELS
 Inspired by the open Web and cultures of sharing, we are designing networked business models optimised for innovation and social impact. We develop new ways of communicating internally, making inclusive decisions, and distributing financial control throughout our organisations.  These processes truly harness the abilities, inventions and connections of our members to drive social entrepreneurship.
